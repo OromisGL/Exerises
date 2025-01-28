@@ -12,7 +12,7 @@
 # Erzeuge dann einige Objekte, verändere sie und lasse sie wieder anzeigen.
 
 
-# Eine Aufgabe die ich bei Codecademy machen musste:
+
 class Menu:
   def __init__(self, name, items, start_time, end_time):
     self.name = name
